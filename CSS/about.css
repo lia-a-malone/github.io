@@ -1,0 +1,92 @@
+@media (min-width:400px){
+
+#jumbotron{
+    background-image: url(https://lh6.googleusercontent.com/proxy/DFfvctOHp3A5TUopXqUohGFjnmxV9sxJJpvuz8K1aAT84PZwFJh_obTV7byMZmiNZWJ5D9xwGmcFSGpP4Kma4AUfgzTe_7iH28ppGASLCaoL1_UDT7y72NaZTQB3YGnJ8GX71uw-eTEIU6c8HNadZYfYL7CCW_wA);
+    height: 40.5rem;
+}
+
+.display-4{
+    text-align: center;
+}
+
+.aboutTxt{
+    padding: 3rem 6rem 1rem 6rem;
+    font-weight: bold;
+}
+
+.my-4{
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 4rem;
+}
+
+.btn{
+    background-color:white;
+}
+
+.linkedin{
+    width: 4rem;
+    height: 4rem;
+}
+
+.github{
+    width: 4rem;
+    height: 4rem;
+}
+
+.repl{
+    width: 4rem;
+    height: 4rem;
+}
+
+.resume{
+    width: 4rem;
+    height: 4rem;
+}
+}
+
+@media (min-width: 1000px){
+    #jumbotron{
+        background-image: url(https://lh6.googleusercontent.com/proxy/DFfvctOHp3A5TUopXqUohGFjnmxV9sxJJpvuz8K1aAT84PZwFJh_obTV7byMZmiNZWJ5D9xwGmcFSGpP4Kma4AUfgzTe_7iH28ppGASLCaoL1_UDT7y72NaZTQB3YGnJ8GX71uw-eTEIU6c8HNadZYfYL7CCW_wA);
+        height: 40.5rem;
+    }
+    
+    .display-4{
+        text-align: center;
+    }
+    
+    .aboutTxt{
+        padding: 3rem 6rem 1rem 6rem;
+        font-weight: bold;
+    }
+    
+    .my-4{
+        text-align: center;
+        padding-top: 5rem;
+        padding-bottom: 4rem;
+    }
+    
+    .btn{
+        background-color:white;
+    }
+    
+    .linkedin{
+        width: 4rem;
+        height: 4rem;
+    }
+    
+    .github{
+        width: 4rem;
+        height: 4rem;
+    }
+    
+    .repl{
+        width: 4rem;
+        height: 4rem;
+    }
+    
+    .resume{
+        width: 4rem;
+        height: 4rem;
+    }
+}

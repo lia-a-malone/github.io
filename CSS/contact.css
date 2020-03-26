@@ -1,0 +1,35 @@
+.formDiv{
+    /* border: 1px dotted green; */
+    padding-left: 40%;
+    padding-right: 40%;
+}
+.formDiv:hover{
+    color: white;
+}
+/* #contact{
+    border: 1px solid red;
+    align-content: center;
+} */
+/* #fs-frm{
+    margin: auto;
+} */
+#full-name{
+    align-content: center;
+    display: block;
+    width: 250px;
+}
+#email-address{
+    align-content: center;
+    display: block;
+    width: 250px;
+}
+#message{
+    align-content: center;
+    display: block;
+    width: 250px;
+    max-height: 200px;
+}
+#subBut{
+    align-content: center;
+    margin-top: 2px;
+}

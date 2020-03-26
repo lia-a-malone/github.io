@@ -1,0 +1,21 @@
+@media (min-width: 400px){
+
+    body{
+        background:black;
+    }
+    
+    html{
+        scroll-behavior: smooth;
+    }
+}
+
+
+@media (min-width: 1000px){
+    body{
+        background:black;
+    }
+    
+    html{
+        scroll-behavior: smooth;
+    }
+}

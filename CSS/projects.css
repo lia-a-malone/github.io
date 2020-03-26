@@ -1,0 +1,51 @@
+#projectContainer{
+    height: 30rem;
+    margin-left: 1.5%;
+    margin-right: 1%;
+}
+
+#projectContainer:hover{
+    color: white;
+}
+.column{
+    position: relative;
+    width: 15rem;
+    padding-top: 1%;
+    margin-top: 3%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.titleDiv{
+    margin-top: 1%;
+    text-align: center;
+}
+.card{
+    text-align: center;
+    display: block;
+    /* border: 1px solid orange; */
+    height: 19rem;
+    background-color: black;
+}
+
+.img{
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+}
+.text{
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.button{
+    color: white;
+}
+.button:hover{
+    color: white;
+    font-size: 120%;
+    text-decoration: none;
+}
+.button:link{
+    color: red;
+    text-decoration: none;
+}
